@@ -1,4 +1,4 @@
-const BaseEvent = require('../utils/BaseEvent.js");
+const BaseEvent = require('../utils/BaseEvent.js');
                           
 module.exports = class MessageEvent extends BaseEvent {
   constructor() {
