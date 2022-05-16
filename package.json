@@ -26,7 +26,7 @@
     "template"
   ],
   "dependencies": {
-    "discord.js": "^12.5.1",
+    "discord.js": "^13.7.0",
     "nodemon": "^2.0.7",
     "path": "^0.12.7",
     "fs": "^0.0.1-security",
